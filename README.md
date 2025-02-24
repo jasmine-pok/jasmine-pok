@@ -9,8 +9,8 @@ I'm a passionate **Backend Software Engineer** who loves building scalable syste
 - **Passion for Backend Development**:  
   I’m a self-taught backend developer with a background in engineering focused on building scalable and efficient systems using **Python** and **Django**. I thrive on solving complex problems and delivering impactful solutions through clean, effective code.
 
-- **Industry Interests**:  
-  I’m particularly passionate about working in **tech**, **fintech**, and **healthcare** industries, where I believe there’s significant potential for innovation. That said, I'm always open to exploring new sectors and challenges where I can make a difference.
+- **Driven by Impact**:  
+  I'm passionate about leveraging technology to create real-world change—whether it's improving decision-making through data, optimizing processes for sustainability, or building systems that positively affect people's lives. I'm eager to contribute to projects where engineering meets purpose.
 
 - **Hobbies & Balance**:  
   When I’m not coding, I enjoy swimming, longboarding, and catching live music 🎶. These activities keep me energized and help me stay creative and focused in my work.
