@@ -1,13 +1,13 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-I'm a passionate **Backend Software Engineer** who loves building scalable systems, focusing on **Python, Django**, and **APIs**. I'm always eager to learn and collaborate on innovative projects that solve real-world problems. 
+I'm a passionate **Software and Data Engineer** who loves building scalable systems, focusing on **Python, Django**, and **APIs**. I'm always eager to learn and collaborate on innovative projects that solve real-world problems. 
 
 ---
 
 ## 🚀 **About Me**
 
-- **Passion for Backend Development**:  
-  I’m a self-taught backend developer with a background in engineering focused on building scalable and efficient systems using **Python** and **Django**. I thrive on solving complex problems and delivering impactful solutions through clean, effective code.
+- **Passion for Data and Backend Development**:  
+  I’m a self-taught data and backend developer with a background in engineering focused on building scalable and efficient systems using **Python** and **Django**. I thrive on solving complex problems and delivering impactful solutions through clean, effective code.
 
 - **Driven by Impact**:  
   I'm passionate about leveraging technology to create real-world change—whether it's improving decision-making through data, optimizing processes for sustainability, or building systems that positively affect people's lives. I'm eager to contribute to projects where engineering meets purpose.
