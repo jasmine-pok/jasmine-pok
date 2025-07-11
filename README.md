@@ -1,28 +1,32 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-I'm a passionate **Software and Data Engineer** who loves building scalable systems, focusing on **Python, Django**, and **APIs**. I'm always eager to learn and collaborate on innovative projects that solve real-world problems. 
-
+I'm a passionate **Data and Software Engineer** who loves building reliable, scalable systems with a focus on **data engineering**, **ETL pipelines**, and **APIs**. I’m always eager to learn, solve complex problems, and collaborate on projects that drive real-world impact.
 ---
 
 ## 🚀 **About Me**
 
-- **Passion for Data and Backend Development**:  
-  I’m a self-taught data and backend developer with a background in engineering focused on building scalable and efficient systems using **Python** and **Django**. I thrive on solving complex problems and delivering impactful solutions through clean, effective code.
+- **Passion for Data Engineering**:  
+  I'm a self-taught data engineer with an engineering background, focused on designing efficient ETL pipelines, data models, and workflows. I thrive on transforming raw data into meaningful insights to empower better decision-making.
 
 - **Driven by Impact**:  
-  I'm passionate about leveraging technology to create real-world change—whether it's improving decision-making through data, optimizing processes for sustainability, or building systems that positively affect people's lives. I'm eager to contribute to projects where engineering meets purpose.
+  I'm passionate about leveraging data and technology to create real-world change—whether it's improving decision-making through data, optimizing processes for sustainability, or building systems that positively affect people's lives. I'm eager to contribute to projects where engineering meets purpose.
 
 - **Hobbies & Balance**:  
   When I’m not coding, I enjoy swimming, longboarding, and catching live music 🎶. These activities keep me energized and help me stay creative and focused in my work.
 
 - **Curiosity & Growth**:  
-  I’m constantly learning and improving, whether it’s through personal projects, collaborating with other developers, or expanding my skill set in new areas. Currently, I’m expanding my skills in data 
- engineering, focusing on ETL pipelines and data modeling.
+  I’m constantly learning and improving, whether it’s through personal projects, collaborating with other developers, or expanding my skill set in new areas. Currently, I’m expanding my skills in data engineering, focusing on ETL pipelines and data modeling.
 
 ---
 
 ## 📂 **Projects**
 
+### ✈️ [Flight-Deal-Tracker](https://github.com/jasmine-pok/flight-deal-tracker)
+An end-to-end data engineering pipeline for tracking flight deals:
+- Automates data extraction from flight APIs and stores deals in BigQuery.
+- Uses dbt for data transformation and modeling.
+- Designed to support daily ingestion, cleaning, and analysis workflows.
+  
 ### 🏦 [Budgeting App](https://github.com/jasmine-pok/budgeting-proj/tree/main)
 A Django-based app for managing personal finances. Features include:
 - User authentication, income/expense tracking, and real-time budget insights.
@@ -42,10 +46,11 @@ A web-based stock market visualization tool built with Python and Streamlit. Fea
 ## 🛠️ **Tech Stack**
 
 - **Languages**: Python, Java, SQL, C++
-- **Frameworks**: Django
+- **Frameworks & Libraries**: Django, Streamlit, Pandas, NumPy, SQLAlchemy, matplotlib
+- **Data Engineering Tools**: Airflow, dbt, BigQuery
 - **Databases**: MySQL, PostgreSQL, SQLite
-- **Technologies & Tools**: Git, CI/CD Pipelines, RESTful APIs, Docker, AWS (EC2, RDS), Streamlit
-- **Collaborations**: GitHub, Trello, Slack
+- **Technologies & Tools**: Git, CI/CD Pipelines, RESTful APIs, Docker, AWS (EC2, RDS)
+- **Collaborations**: GitHub, Slack
 
 ---
 
