@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-I'm a passionate **Data and Software Engineer** who loves building reliable, scalable systems with a focus on **data engineering**, **ETL pipelines**, and **APIs**. I’m always eager to learn, solve complex problems, and collaborate on projects that drive real-world impact.
+I'm a Data Science Engineer at Turquoise whose mission is to eliminate financial complexity in healthcare. I’m always eager to learn, solve complex problems, and collaborate on projects that drive real-world impact.
 ---
 
 ## 🚀 **About Me**
